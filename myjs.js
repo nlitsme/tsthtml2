@@ -1,4 +1,4 @@
-function start()
+function jsloaded()
 {
-    document.body.append("<b>test</b>");
+    document.body.append("<b>js loaded</b>");
 }
